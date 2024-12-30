@@ -23,6 +23,9 @@ El RSI se calcula comparando la magnitud de los ascensos recientes con la de las
 ### En resumen
 El RSI es una herramienta valiosa para los traders, pero no debe utilizarse como único indicador para tomar decisiones de inversión. Es recomendable combinarlo con otros indicadores y análisis fundamentales para obtener una visión más completa del mercado.
 
-
+### Opinion de allegados que viven del trading:
+No cren que solo este indicador sea un eficaz por ella sola por:
+  * Las entradas probables con este indicador son muy poco seguras
+   * Al basarse en la fuerza del movimiento, es poco fiable usarse solo
 
 ###Versiones:
