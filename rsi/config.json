@@ -1,0 +1,6 @@
+{
+    "par": "BTCUSDT",
+    "temporalidad": "1h",
+    "tiempo_espera": 5,
+    "periodo_rsi": 14
+}
