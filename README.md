@@ -28,4 +28,6 @@ No cren que solo este indicador sea un eficaz por ella sola por:
   * Las entradas probables con este indicador son muy poco seguras
    * Al basarse en la fuerza del movimiento, es poco fiable usarse solo
 
-###Versiones:
+## Versiones:
+### Version 1:
+* 
