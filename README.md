@@ -31,6 +31,6 @@ No cren que solo este indicador sea un eficaz por ella sola por:
 ## Versiones:
 ### Version 1:
 * Calculo de rsi y recomendacion de accion en base a este
-  ### Version 1:
+### Version 2:
 * Espera si se encuentra una accion a tomar el tiempo de la temporalidad
 * se guarda las acciones tomadas
